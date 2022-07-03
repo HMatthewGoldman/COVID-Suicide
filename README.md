@@ -1,5 +1,6 @@
 # COVID-Suicide
-School Project for Python
+School Project for Python.
+
 For this project, I chose my own data to analyze, with the goal of conducting an
 exploratory visual analysis in Python and finding connections between variables that seem
 worth exploring. After developing hypotheses, I used various advanced analytical
@@ -10,3 +11,5 @@ and tangible way. Your dashboard will tell the story of your analytical journey 
 needs to contain a curation of the key results you discovered throughout this project.
 Note that not all of the results will fit into the dashboard. Any additional analyses 
 conducted as part of the project will need to be included in a GitHub repository.
+Here is a link to the Tableau presentation:
+https://public.tableau.com/views/COVIDSuicideProject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
